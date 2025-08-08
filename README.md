@@ -1,18 +1,19 @@
-# Detection Lab (In-progress)
+# Oski LAB(In-progress)
 
 ## Objective:
 
-???
+The accountant at the company received an email titled "Urgent New Order" from a client late in the afternoon. When he attempted to access the attached invoice, he discovered it contained false order information. Subsequently, the SIEM solution generated an alert regarding downloading a potentially malicious file. Upon initial investigation, it was found that the PPT file might be responsible for this download. Conduct a detailed examination of this file.
 
 ### Skills Learned
 
 Example below.
-1. Identifying the geographical origin of the attack facilitates the implementation of geo-blocking measures and the analysis of threat intelligence. From which city did the attack originate?
+1. ???
 2. 
 
 ### Tools Used
 
-- ???
+- Virustotal
+- Any.RUN
 
 ## Steps:
 
@@ -24,15 +25,11 @@ Every screenshot should have some text explaining what the screenshot is about.
 
 Example below.
 
-*Ref 1: WebStrike.PCAP file
+*Ref 1: ???
 
 
 ## Notes:
 
 Example below.
 - Thunar file system interaction
-- https://ipgeolocation.io/   for IPv4v Address (117.11.88.124) Lookup
-- WebStrike.PCAP
-- uese-agent ---- | Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0 |
-- Filter for wire shark ---- |(ip.src == 117.11.88.124 and http.request.method=="POST") |
-- 
+- ???
